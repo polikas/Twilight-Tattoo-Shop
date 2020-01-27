@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb477d845b964f4a97205edfac62028, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  customerTexts:
+  - I need somethimg manly and be part of nature
+  - I want something to show me the way and never look back
+  - I love hiking and the smell of flowers
+  tattoos:
+  - {fileID: 21300000, guid: 9c6daf88a27211e47a81304a174f024b, type: 3}
+  - {fileID: 21300000, guid: 14588327c3eb3a44da69eb75c621e8c9, type: 3}
+  - {fileID: 21300000, guid: ed28c96820500fc42854308256ac90b2, type: 3}
+  - {fileID: 21300000, guid: 8b9a2d2ca3edc0d43a5cce522f754dab, type: 3}
+  - {fileID: 21300000, guid: 167258d21ef80f54a8ee546e309a7da0, type: 3}
+  - {fileID: 21300000, guid: 992255249f54d3a43b7bec61e96c3ffb, type: 3}
+  - {fileID: 21300000, guid: 88851cd9182e0a8449c1cbd74d25a2ef, type: 3}
+  - {fileID: 21300000, guid: 555b8460c1895b745aeeca89febe4b5e, type: 3}
+  - {fileID: 21300000, guid: 626b3a2113316084b9ec66178ce4792e, type: 3}
+  finishedCustomers:
+  - {fileID: 21300000, guid: 8d603d7e08684af44b3273d4bc29beb1, type: 3}
+  - {fileID: 21300000, guid: ebecc9170330aa140a68b30cbc6fd584, type: 3}
+  - {fileID: 21300000, guid: 9b8fa56b14835534088616c8a8bdcb4a, type: 3}
