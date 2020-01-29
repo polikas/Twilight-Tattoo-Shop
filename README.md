@@ -1,5 +1,5 @@
 # Twilight-Tattoo-Shop
-Second year project at the university, made with Unity, assets created by artist with Maya
+Second year project at the university, made with Unity, assets created by artist with Photoshop
 
 Team name: Crypto
 
